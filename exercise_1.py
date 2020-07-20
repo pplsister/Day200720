@@ -2,7 +2,7 @@
 练习1： index.html 这个网页内容显示在浏览器上
 要求，浏览器可以多次访问
 """
-
+#方案一：git status确保是干净的工作区再修改
 from  socket import *
 
 # 创建tcp套接字
